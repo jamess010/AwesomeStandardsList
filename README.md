@@ -21,15 +21,15 @@
 ### 国际
 ---
 
-[国际标准化组织(ISO)(International Organization for Standardization)](http://www.iso.ch)：标准代号：ISO，The International Organization for Standardization (ISO) is a worldwide federation of national standards bodies from some 130 countries, one from each country。
-
-[NSSN](http://www.nssn.org)：标准代号：IEC/EN。
+[国际标准化组织(ISO)(International Organization for Standardization)](http://www.iso.ch)：标准代号：ISO，是一个全球性的非政府组织，是国际标准化领域中一个十分重要的组织。
 
 [国际电工委员会(IEC)(International Electrotechnical Commission)](https://www.iec.ch/)：标准代号：IEC。
 
-[国际电信联盟(ITU)](https:www.itu.int)
+[国际电信联盟(ITU)(International Technological University )](https:www.itu.int)：标准代号：ITU，国际电信联盟是联合国的一个重要专门机构，也是联合国机构中历史最长的一个国际组织。简称“国际电联”、“电联”或“ITU”。
 
-[IECEE()](www.iecee.org/ctl/sheet/)：标准代号：CTL决议
+[全球标准化资料库(NSSN)](http://www.nssn.org)：在线免费查询全球600多家标准组织与专业协会制订的225,000多条标准的目录，提供获取全文的途径，如联系电话或标准化组织的网站。
+
+[IECEE](www.iecee.org/ctl/sheet/)：是在国际电工委员会(IEC）授权下开展工作的国际认证组织。
 
 [International Labour Organization (ILO)国际劳工组织 (ILO)](http://www.ilo.org)：国际劳工组织是联合国的一个专门机构，建于1919年.通过制定国际劳工标准来保障人们享有国际公认的劳动权. 
 
