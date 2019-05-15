@@ -11,24 +11,25 @@
 * [中东标准](#中东)
 * [中国台湾标准](#中国台湾)
 * [中国标准](#中国)
-  * [标准代码规则](#标准代码规则)
+  * [标准代号规则](#标准代号规则)
   * [国家标准](#国家标准)
   * [行业标准](#行业标准)
   * [地方标准](#地方标准)
   * [企业标准](#企业标准)
+  * [团体标准](#团体标准)
 
 ### 国际
 ---
 
-[国际标准化组织(ISO)(International Organization for Standardization)](http://www.iso.ch)：标准代码：ISO，The International Organization for Standardization (ISO) is a worldwide federation of national standards bodies from some 130 countries, one from each country。
+[国际标准化组织(ISO)(International Organization for Standardization)](http://www.iso.ch)：标准代号：ISO，The International Organization for Standardization (ISO) is a worldwide federation of national standards bodies from some 130 countries, one from each country。
 
-[NSSN](http://www.nssn.org)：标准代码：IEC/EN。
+[NSSN](http://www.nssn.org)：标准代号：IEC/EN。
 
-[国际电工委员会(IEC)(International Electrotechnical Commission)](https://www.iec.ch/)：标准代码：IEC。
+[国际电工委员会(IEC)(International Electrotechnical Commission)](https://www.iec.ch/)：标准代号：IEC。
 
 [国际电信联盟(ITU)](https:www.itu.int)
 
-[IECEE()](www.iecee.org/ctl/sheet/)：标准代码：CTL决议
+[IECEE()](www.iecee.org/ctl/sheet/)：标准代号：CTL决议
 
 [International Labour Organization (ILO)国际劳工组织 (ILO)](http://www.ilo.org)：国际劳工组织是联合国的一个专门机构，建于1919年.通过制定国际劳工标准来保障人们享有国际公认的劳动权. 
 
@@ -44,17 +45,17 @@
 
 [美国国家标准所 (ANSI)(American National Standards Institute)](http://www.ansi.org)：是美国非营利性民间标准化团体,自愿性标准体系的协调中心，成立于1918年，总部设在纽约。有250多个专业学会、协会、消费者组织以及1 000多个公司（包括外国公司）参加。
 
-[加拿大标准委员会 (SCC)(Standards Council of Canada)](http://www.scc.ca)：标准代码：CSA。加拿大标准委员会（Standards Council of Canada，SCC）是加拿大一家联邦公司，其职责是在没有明确法律规定标准化的地方推动加拿大自愿性标准化。总部位于安大略省渥太华，它拥有多达13个成员组成的理事会和大约90名员工。该委员会通过加拿大产业大臣向议会报告。
+[加拿大标准委员会 (SCC)(Standards Council of Canada)](http://www.scc.ca)：标准代号：CSA。加拿大标准委员会（Standards Council of Canada，SCC）是加拿大一家联邦公司，其职责是在没有明确法律规定标准化的地方推动加拿大自愿性标准化。总部位于安大略省渥太华，它拥有多达13个成员组成的理事会和大约90名员工。该委员会通过加拿大产业大臣向议会报告。
 
-[美国UL](http://www.comm-2000.com)；标准代码：UL。https://www.shopulstandards.com
+[美国UL](http://www.comm-2000.com)；标准代号：UL。https://www.shopulstandards.com
 
-[美国材料协会(ASTM)(American Society for Testing and Materials)](http://www.astm.org)：标准代码：ASTM。
-
-
-[阿根廷国家标准)](http://wwww.iram.org.ar)：标准代码：IRAM。
+[美国材料协会(ASTM)(American Society for Testing and Materials)](http://www.astm.org)：标准代号：ASTM。
 
 
-[巴西国家标准](www.abnt.org.br)：标准代码：ABNT NBR。
+[阿根廷国家标准)](http://wwww.iram.org.ar)：标准代号：IRAM。
+
+
+[巴西国家标准](www.abnt.org.br)：标准代号：ABNT NBR。
 
 
 ---
@@ -64,12 +65,12 @@
 
 [ILI StandardsWeb](http://www.ei.org/eihome/services/ili/ili-menu.htm)：世界上唯一的全书目式标准数据库(英国ILI出版)，需付费查询。
 
-[欧盟标准化委员会](http://www.cen.eu)：标准代码：EN。
+[欧盟标准化委员会](http://www.cen.eu)：标准代号：EN。
 
-[欧盟电工执委会](www.cenelec.eu)：标准代码：EN。
+[欧盟电工执委会](www.cenelec.eu)：标准代号：EN。
 
 
-[欧盟OSM](www.iecee.org/ctl/OSM_decisions.htm)；标准代码：OSM决议。
+[欧盟OSM](www.iecee.org/ctl/OSM_decisions.htm)；标准代号：OSM决议。
 
 
 [Official Journal](https://eur-lex.europa.eu)
@@ -77,28 +78,28 @@
 
 [欧盟委员会](https://ec.europa.eu/commission/index_en)
 
-[英国标准协会](www.bsi-global.com)：标准代码：BS EN
+[英国标准协会](www.bsi-global.com)：标准代号：BS EN
 
-[法国标准协会](http://www.boutique.afnor.org)：标准代码：NF EN
+[法国标准协会](http://www.boutique.afnor.org)：标准代号：NF EN
 
 
-[西班牙标准协会]()：标准代码：UNE-EN。
+[西班牙标准协会]()：标准代号：UNE-EN。
 
-[德国标准化委员会](http://www.din.de)：标准代码：DIN
+[德国标准化委员会](http://www.din.de)：标准代号：DIN
 
-[德国ZLS](www.zls-muenchen.de)：标准代码：EK1决议
+[德国ZLS](www.zls-muenchen.de)：标准代号：EK1决议
 
-[荷兰国家标准](www.nen.nl)：标准代码：NEN
+[荷兰国家标准](www.nen.nl)：标准代号：NEN
 
-[瑞典国家标准SIS](www.sis.se)：标准代码：SEN
+[瑞典国家标准SIS](www.sis.se)：标准代号：SEN
 
-[丹麦国家标准](www.ds.dk)：标准代码：DS、DS/EN
+[丹麦国家标准](www.ds.dk)：标准代号：DS、DS/EN
 
-[挪威国家标准](www.standard.no)：标准代码：NS/EN、NEK
+[挪威国家标准](www.standard.no)：标准代号：NS/EN、NEK
 
-[意大利国家标准](www.uni.com)：标准代码：UNI
+[意大利国家标准](www.uni.com)：标准代号：UNI
 
-[爱沙尼亚国家标准](www.evs.ee)：标准代码：EVS-EN
+[爱沙尼亚国家标准](www.evs.ee)：标准代号：EVS-EN
 
 ### 亚洲
 ---
@@ -114,9 +115,9 @@
 ### 澳洲
 ---
 
-[澳大利亚标准(Standards Australia On-line)](http://www.standards.com.au)：标准代码：AS。
+[澳大利亚标准(Standards Australia On-line)](http://www.standards.com.au)：标准代号：AS。
 
-[新西兰标准组织(Standards New Zealand)](http://www.standards.co.nz)：标准代码：NZS。
+[新西兰标准组织(Standards New Zealand)](http://www.standards.co.nz)：标准代号：NZS。
 
 [澳大利亚/新西兰标准查询网站](http://www.saiglobal.com/shop)
 
@@ -124,7 +125,7 @@
 
 ### 中东
 
-[沙特阿拉伯](www.saso.org.sa)：标准代码：SASO。
+[沙特阿拉伯](www.saso.org.sa)：标准代号：SASO。
 
 ---
 
@@ -137,17 +138,21 @@
 
 ### 中国
 ---
-#### 标准代码规则
+#### 标准代号规则
 
-目前，中国现有的标准分类主要包括：国家标准、行业标准、地方标准和企业标准等，其编号通常由标准代码、标准发布顺序和标准发布年号构成。
+目前，中国现有的标准分类主要包括：国家标准、行业标准、地方标准和企业标准等，其编号通常由标准代号、标准发布顺序和标准发布年号构成。
 
-1）国家标准的代码由大写汉字拼音构成，强制性国家标准代码为GB，推荐性国家标准代码为GB／T。
+1）国家标准的代号由大写汉字拼音构成，强制性国家标准代号为GB，推荐性国家标准代号为GB／T。
 
-2）行业标准代码由汉语拼音大写字母组成，再加上斜线T组成推荐性行业标准，如XX／T。行业标准代码由国务院各有关行政主管部门提出其所管理的行业标准范围的申请报告，国务院标准化行政主管部门审查确定并正式公布该行业标准代码。已经正式发布的行业代码有QJ（航天）、SJ（电子）、JB（金融系统）等。
+2）行业标准代号由汉语拼音大写字母组成，再加上斜线T组成推荐性行业标准，如XX／T。行业标准代号由国务院各有关行政主管部门提出其所管理的行业标准范围的申请报告，国务院标准化行政主管部门审查确定并正式公布该行业标准代号。已经正式发布的行业代码有QJ（航天）、SJ（电子）、JB（金融系统）等。
 
-3）地方标准代码由大写汉语拼音DB加上省、自治区、直辖市行政区化代码的前面两位数字（北京市11、天津市12、上海市13等），再加上斜线T组成推荐性地方标准（DBXX／T），不加斜线T为强制性地方标准（DBXX）。
+3）地方标准代号由大写汉语拼音DB加上省、自治区、直辖市行政区化代码的前面两位数字（北京市11、天津市12、上海市13等），再加上斜线T组成推荐性地方标准（DBXX／T），不加斜线T为强制性地方标准（DBXX）。
 
-4）企业标准代码由汉字大写拼音字母Q加斜线再加企业代码组成（Q／XXX），企业代码可用大写拼音字母或阿拉伯数字或者两者兼用所组成。
+4）企业标准代号由汉字大写拼音字母Q加斜线再加企业代码组成（Q／XXX），企业代码可用大写拼音字母或阿拉伯数字或者两者兼用所组成。
+
+5）团体标准代号由汉字大写拼音字母T加斜线再加团体代号、团体标准顺序号和年号组成（T／CAS 115-2015）。
+
+
 
 #### 国家标准
 
@@ -328,3 +333,6 @@ http://wsbz.nhfpc.gov.cn/wsbzw/
 
 [企业标准信息公共服务平台](http://www.cpbz.gov.cn/)：在线查询企业标准。
 
+#### 团体标准
+
+[全国团体标准信息平台](http://www.ttbz.org.cn/Home/Standard)：
