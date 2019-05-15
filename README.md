@@ -70,13 +70,13 @@
 [欧盟电工执委会](www.cenelec.eu)：标准代号：EN。
 
 
-[欧盟OSM](www.iecee.org/ctl/OSM_decisions.htm)；标准代号：OSM决议。
+[欧盟OSM](https://www.iecee.org/)；标准代号：OSM决议。
 
 
 [Official Journal](https://eur-lex.europa.eu)
 
 
-[欧盟委员会](https://ec.europa.eu/commission/index_en)
+[欧盟委员会](https://ec.europa.eu/commission/index_en)：是欧洲联盟的常设执行机构，也是欧盟唯一有权起草法令的机构。
 
 [英国标准协会](www.bsi-global.com)：标准代号：BS EN
 
