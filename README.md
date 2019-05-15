@@ -335,4 +335,4 @@ http://wsbz.nhfpc.gov.cn/wsbzw/
 
 #### 团体标准
 
-[全国团体标准信息平台](http://www.ttbz.org.cn/Home/Standard)：
+[全国团体标准信息平台](http://www.ttbz.org.cn/Home/Standard)：在线查询团体标准。
