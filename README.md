@@ -108,7 +108,7 @@
 
 [韩国国家标准](http://www.kats.go.kr)：标准代号：KS。
 
-[马来西亚](http://www.msonline.gov.my)标准代号：MS。
+[马来西亚](http://www.msonline.gov.my)：标准代号：MS。
 
 ---
 
@@ -132,7 +132,7 @@
 ### 中国台湾
 ---
 
-[台湾标准检验局](http://www.cnsonline.com.tw/)：标准代号：CNS。可在线浏览与付费下载
+[台湾标准检验局](http://www.cnsonline.com.tw/)：标准代号：CNS，可在线浏览与付费下载
 
 ---
 
