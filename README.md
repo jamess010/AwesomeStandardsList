@@ -52,7 +52,7 @@
 [美国材料协会(ASTM)(American Society for Testing and Materials)](http://www.astm.org)：标准代号：ASTM。
 
 
-[阿根廷国家标准)](http://wwww.iram.org.ar)：标准代号：IRAM。
+[阿根廷国家标准](http://wwww.iram.org.ar)：标准代号：IRAM。
 
 
 [巴西国家标准](www.abnt.org.br)：标准代号：ABNT NBR。
@@ -83,7 +83,7 @@
 [法国标准协会](http://www.boutique.afnor.org)：标准代号：NF EN
 
 
-[西班牙标准协会]()：标准代号：UNE-EN。
+[西班牙标准协会](https://www.aenor.com/)：标准代号：UNE-EN。
 
 [德国标准化委员会](http://www.din.de)：标准代号：DIN
 
