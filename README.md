@@ -278,7 +278,6 @@ http://wsbz.nhfpc.gov.cn/wsbzw/
 
 [青海地方标准](http://125.72.41.89:8008/home/res/search?keywords=DB&page=)：只有目录，不能阅读和下载。
 
-
 [宁夏地方标准](http://www.nstd.org.cn/)：可以阅读载。
 
 
@@ -297,4 +296,9 @@ http://wsbz.nhfpc.gov.cn/wsbzw/
 
 
 [内蒙地方标准](http://www.imisinfo.org.cn/)：可以在线阅读。
+
+
+#### 企业标准
+
+[企业标准信息公共服务平台](http://www.cpbz.gov.cn/)：在线查询企业标准。
 
