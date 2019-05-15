@@ -113,9 +113,9 @@
 ### 澳洲
 ---
 
-[澳大利亚标准(Standards Australia On-line)](http://www.standards.com.au)
+[澳大利亚标准(Standards Australia On-line)](http://www.standards.com.au)：标准代码：AS。
 
-[新西兰标准组织(Standards New Zealand)](http://www.standards.co.nz)
+[新西兰标准组织(Standards New Zealand)](http://www.standards.co.nz)：标准代码：NZS。
 
 [澳大利亚/新西兰标准查询网站](http://www.saiglobal.com/shop)
 
@@ -123,7 +123,7 @@
 
 ### 中东
 
-[沙特阿拉伯](www.saso.org.sa)：代码标准：SASO。
+[沙特阿拉伯](www.saso.org.sa)：标准代码：SASO。
 
 ---
 
